@@ -1,2 +1,2 @@
 #!/bin/bash
-qcc -c $CFILE -o 'echo $CFILE | cut -d. -fl'.o
+qcc -c $CFILE -o 'echo $CFILE | cut -d. -f1'.o
