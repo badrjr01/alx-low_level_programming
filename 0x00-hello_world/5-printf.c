@@ -6,7 +6,7 @@
  * Description: A C program that prits with printf function.
  *
  * Return: Always 0 (sucess)
- */
+*/
 
 int main(void)
 {
