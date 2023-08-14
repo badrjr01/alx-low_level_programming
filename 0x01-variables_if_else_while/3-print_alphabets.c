@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - Entry poit
+ * main - Entry point
  *
- * Description: print all alphabet letters
+ * Description: print alphabet in lowercase then in uppercase
  *
  * Return: Alway 0 (success)
 */
 
 int main(void)
 {
-	char ch = 'a'
+	char ch = 'a';
 	char CH = 'A';
 
 	/*prints a - z*/
