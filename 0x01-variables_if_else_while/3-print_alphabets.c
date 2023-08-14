@@ -13,7 +13,7 @@ int main(void)
 	char ch = 'a';
 	char CH = 'A';
 
-	/*prints a - z*/
+	/*print a - z*/
 	while (ch <= 'z')
 	{
 		putchar(ch);
@@ -26,7 +26,7 @@ int main(void)
 		putchar(ch);
 		ch++;
 	}
-		putchar('\n');
+	putchar('\n');
 
 		return (0);
 }
