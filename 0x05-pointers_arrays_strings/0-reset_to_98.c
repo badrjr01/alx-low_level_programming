@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * reset _tp_98 - takes a pointer to an int parameter
- *                and adaptes the value it points to 98
+ * reset _to_98 - takes a pointer to an int parameter
+ *                and adaptes the value it points to 98.
  *
  * @n: int parameter
  *
